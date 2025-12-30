@@ -16,7 +16,7 @@ I build research-grade data pipelines (Python/SQL) and run rigorous empirical te
 
 ---
 
-## Selected work (short)
+## Selected work 
 **Earnings Manipulation Under Pressure (FCPI)**  
 - Builds a covenant-pressure proxy and tests links to misstatements / earnings management.  
 - Methods: panel regressions, fixed effects, robustness/heterogeneity.
@@ -29,11 +29,9 @@ I build research-grade data pipelines (Python/SQL) and run rigorous empirical te
 - Studies valuation effects of commitments vs. delivery relative to firm-specific benchmarks.  
 - Methods: selection concerns, identification strategy, robustness.
 
-*(Add links to PDFs/SSRN/GitHub repos for each if public.)*
-
 ---
 
-## Projects (practical)
+## Projects 
 - **Data pipeline templates:** cleaning + merging large panels; reproducible analysis skeletons.
 - **Signal research exercises:** simple alpha tests / feature evaluation framework (backtest hygiene, stability checks).
 - **Dashboards (optional):** lightweight monitoring (risk metrics, exposures, summaries).
