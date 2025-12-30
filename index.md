@@ -41,4 +41,4 @@ I build research-grade data pipelines (Python/SQL) and run rigorous empirical te
 ---
 
 ## Contact
-If you’re hiring for quant/risk/research roles or want to chat, reach me at **your.email@domain.com**.
+If you’re hiring for quant/risk/research roles or want to chat, reach me at **evgeni.mayorov@gmail.com**.
