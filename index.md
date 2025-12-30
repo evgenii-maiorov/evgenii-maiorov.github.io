@@ -1,10 +1,14 @@
+<img src="assets/img/profile.jpg" alt="Evgenii Maiorov" width="180" style="border-radius: 50%; margin: 10px 0;">
+
 # Evgenii Maiorov
 
 Finance PhD (HEC Lausanne / Swiss Finance Institute) working at the intersection of **empirical finance, risk analytics, and NLP**.  
 I build research-grade data pipelines (Python/SQL) and run rigorous empirical tests to answer high-stakes questions under constraints.
 
 **Open to roles:** Quant / Risk / Research / Data (Switzerland / Europe)  
-**Email:** evgeni.mayorov@gmail.com · **LinkedIn:** https://www.linkedin.com/in/evgenii-maiorov · **GitHub:** https://github.com/evgenii-maiorov  
+**Email:** [evgeni.mayorov@gmail.com](mailto:evgeni.mayorov@gmail.com) ·
+**LinkedIn:** [evgenii-maiorov](https://www.linkedin.com/in/evgenii-maiorov/) ·
+**GitHub:** [evgenii-maiorov](https://github.com/evgenii-maiorov)  
 **CV:** [Download PDF](assets/cv.pdf)
 
 ---
