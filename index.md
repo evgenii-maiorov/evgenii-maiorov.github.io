@@ -38,7 +38,7 @@ I build research-grade data pipelines (Python/SQL) and run rigorous empirical te
 ## Projects 
 - **Data pipeline templates:** cleaning + merging large panels; reproducible analysis skeletons.
 - **Signal research exercises:** simple alpha tests / feature evaluation framework (backtest hygiene, stability checks).
-- **Dashboards (optional):** lightweight monitoring (risk metrics, exposures, summaries).
+- **Dashboards:** lightweight monitoring (risk metrics, exposures, summaries).
 
 ---
 
