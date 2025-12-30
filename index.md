@@ -9,7 +9,7 @@ I build research-grade data pipelines (Python/SQL) and run rigorous empirical te
 **Email:** [evgeni.mayorov@gmail.com](mailto:evgeni.mayorov@gmail.com) ·
 **LinkedIn:** [evgenii-maiorov](https://www.linkedin.com/in/evgenii-maiorov/) ·
 **GitHub:** [evgenii-maiorov](https://github.com/evgenii-maiorov)  
-**CV:** [Download PDF](assets/cv.pdf)
+**CV:** [Download PDF](assets/EvgeniiMaiorovCV.pdf)
 
 ---
 
