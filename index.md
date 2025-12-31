@@ -2,7 +2,7 @@
 
 # Evgenii Maiorov
 
-Finance PhD (HEC Lausanne / Swiss Finance Institute) working at the intersection of **empirical finance, risk analytics, and NLP**.  
+Finance PhD (Swiss Finance Institute / HEC Lausanne) working at the intersection of **empirical finance, risk analytics, and NLP**.  
 I build research-grade data pipelines (Python/SQL) and run rigorous empirical tests to answer high-stakes questions under constraints.
 
 **Open to roles:** Quant / Risk / Research / Data (Switzerland / Europe)  
