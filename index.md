@@ -16,7 +16,7 @@ I build research-grade data pipelines (Python/SQL) and run rigorous empirical te
 ## What I do
 - **Research loop:** data → feature/signal/metric → validation → documentation
 - **Tooling:** Python (pandas, statsmodels), SQL, R/Stata, Git, reproducible workflows
-- **Focus areas:** firm fundamentals, text analytics (earnings calls / reports), ESG & climate finance, risk monitoring
+- **Focus areas:** firm fundamentals, text analytics (earnings calls / reports / SEC filings), ESG & climate finance, risk monitoring
 
 ---
 
